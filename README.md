@@ -1,22 +1,14 @@
 ### Hi there, I'm Kamia 👋 😊 
 
 ## About Me ℹ️ 🌟
-I am a hospitality worker turned Data Scientist. I have a backgroud in Biology and Chemistry and have a strong passion for analytics and 
-experiment design. I also have a strong interest in people and communication. I have always been interested in uncovering patterns and understanding
-systems and I am a highly curious individual. My curiosity has led me to pursue different career paths but when I found Data Science I knew I was in love!
-Working in a lab for four years, I have always enjoyed getting my hands dirty and directly applying concepts as I learned them. What was the most rewarding
-for me was the analysis and storytelling I got to do with the resutls of my experiments. When I discovered Data Science a whole other world was unlocked 
-for me, a world where I get to follow my curiosity and interest in hands on experiementation and my passion for in depth analysis! Data Science allows 
-me to apply my creative problem solving skills to many different areas and the possibilites really are endless! Currently I am very interested in 
-Time Series and NLP and the diverse applications of these two areas of Data Science. 💡🚀
+I’m Kamia, a Data Scientist specializing in predictive analytics, including time series analysis. With a background in Biology and Chemistry, I work as a freelancer, offering data science and machine learning solutions to clients in environmental science and biotech.
 
+I have over 8 years of experience working in various industries, where I excelled in strategy and communications. In my current role as a Data Scientist, I have developed creative predictive machine learning solutions in areas such as surf forecasting, urban agriculture, and biochemistry. Additionally, I have a strong foundation in natural language processing (NLP) and am passionate about expanding my expertise in this area.
 
+I excel at leveraging advanced analytics and machine learning to uncover insights and solve complex problems. My expertise has been recognized through certifications, including BrainStation in Data Science and Omdena as a Machine Learning Engineer.
+I believe in the power of data to drive innovation and create meaningful change. My approach is fueled by curiosity and a commitment to continuous learning, which fosters growth and leads to creative, yet technically sound solutions. I combine a deep understanding of both the technical and commercial aspects of data science with a strong desire to create strategic, positive impact.
+In my free time, I enjoy surfing, exploring surf history and art, practicing yoga, and expanding my knowledge in various areas of tech. I'm also passionate about staying up-to-date with emerging technology trends. If you’re interested in discussing how data science can benefit your projects or business, or if you’d like to chat about surfing, predictive analytics, or environmental sustainability, please send me a message and connect with me!
 
-- 🔭 I’m currently working on a NLP project, for detecting toxicity in text! 
-- 🌱 I’m currently learning Transformers Hugging Face Library
-- 👯 I’m looking to collaborate on projects about environment and climate 🌊! Or any project involving LLMs 🤖 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am an avid Surfer and yoga practitioner, 🏄🏽‍♀️ 🧘🏽‍♀️ I also enjoy baking sourddough bread 🥖
 
 ## How to reach me 📫
 
