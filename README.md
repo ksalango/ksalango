@@ -15,7 +15,7 @@ In my free time, I enjoy surfing, exploring surf history and art, practicing yog
 ## How to reach me 📫
 
 - 👩🏽 LinkedIn: [Kamia Salango](www.linkedin.com/in/kamia-salango)
-- 📩 Email: kamia.salango@gmail.com
+- 📩 Email: ks@ksdatasolutions.com
 
 <!--
 **ksalango/ksalango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
