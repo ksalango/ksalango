@@ -1,7 +1,7 @@
 ### Hi there, I'm Kamia 👋 😊 
 
 ## About Me ℹ️ 🌟
-I’m Kamia, a Data Scientist specializing in predictive analytics, including time series analysis. With a background in Biology and Chemistry, I work as a freelancer, offering data science and machine learning solutions to clients in environmental science and biotech.
+I’m Kamia, a Data Scientist specializing in predictive analytics, including time series analysis. With a background in Biology and Chemistry, I work as a freelancer, offering data science and machine learning solutions to clients in diverse industries.
 
 I have over 8 years of experience working in various industries, where I excelled in strategy and communications. In my current role as a Data Scientist, I have developed creative predictive machine learning solutions in areas such as surf forecasting, urban agriculture, and biochemistry. Additionally, I have a strong foundation in natural language processing (NLP) and am passionate about expanding my expertise in this area.
 
