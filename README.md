@@ -1,4 +1,4 @@
-Applied machine learning egnineer specializing in time-series, sensor fusion, and evaluation of route-matching and retrieval systems. Background in biology & chemistry, with experience across environmental, biomedical, and geospatial domains.
+Applied machine learning egnineer specializing in time-series, sensor fusion, and evaluation of complex systems. Background in biology & chemistry, with experience across environmental, biomedical, and geospatial domains.
 
 ## How to reach me 
 
